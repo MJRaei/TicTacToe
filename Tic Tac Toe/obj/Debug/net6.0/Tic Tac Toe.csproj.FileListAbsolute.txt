@@ -1,0 +1,14 @@
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.exe
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.deps.json
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.runtimeconfig.json
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.dll
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.pdb
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.dll
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\refint\Tic Tac Toe.dll
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.pdb
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\Javad ProcessEcology\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0\ref\Tic Tac Toe.dll
