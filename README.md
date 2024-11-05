@@ -1,2 +1,2 @@
 # TicTacToe
-This is the TicTacToe game written in C#.
+This is a TicTacToe game written in C#.
